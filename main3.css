@@ -8,45 +8,54 @@ header {
 	padding:5px 15px 0 15px;
 
 }
+
 header h1 {
 	margin:0;
 	display: inline;
 
 }
 
-nav ul {
+header h1 a {
+	color:black;
+}
+
+div ul {
 	margin:0;
 	padding:0 0 0 15px;
 	display:inline;
 }
 
-nav ul li {
+div ul li {
 	background: black;
 	color:white;
 	list-style-type: none;
 	display: inline-block;
 	padding:5px 15px;
 	margin: 0;
+	float:right;
 }
 
-nav ul li a{
+div ul li a{
 	color: white;
 }
 
 
 .container{
+	font: Verdana;
 
 }
 
 .navegacao{
+	width:30%;
 	color:white;
   	border-radius: 5px;
   	padding: .5%;
-  	float:left;
+  	float:right;
   	background:#333;
-  	width:31%;
+  	width:30%;
 	margin:.5%;
 	text-align: center;
+
 }
  .conteudo{
 	color:white;
@@ -54,9 +63,10 @@ nav ul li a{
   	padding: .5%;
   	float:left;
   	background:#333;
-  	width:31%;
+  	width:66%;
 	margin:.5%;
 	text-align: center;
+
 
 }
 footer {
