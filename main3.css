@@ -33,15 +33,13 @@ nav ul li a{
 	color: white;
 }
 
- .row:after {
- 	clear:both;
- 	content:"";
- 	display:table;
 
-	
- }
-  .col {
-  	color:white;
+.container{
+
+}
+
+.navegacao{
+	color:white;
   	border-radius: 5px;
   	padding: .5%;
   	float:left;
@@ -49,4 +47,18 @@ nav ul li a{
   	width:31%;
 	margin:.5%;
 	text-align: center;
-  }
+}
+ .conteudo{
+	color:white;
+  	border-radius: 5px;
+  	padding: .5%;
+  	float:left;
+  	background:#333;
+  	width:31%;
+	margin:.5%;
+	text-align: center;
+
+}
+footer {
+	clear:both;
+}
