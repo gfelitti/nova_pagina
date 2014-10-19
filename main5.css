@@ -1,0 +1,59 @@
+body {
+	padding:0;
+	margin:0;
+}
+
+header ul{ 
+	display: inline;
+	margin:0;
+	padding:0;
+	}
+
+header ul li {	
+	display:inline-block;
+	padding: 0 10px 0 10px;
+	font-size: 28;
+	background:black;
+	list-style-type: none;
+}
+
+header ul li a {
+	color: white;
+}
+
+ .container {
+ 	padding:0;
+ 	margin:0;
+ }
+
+ .content {
+ 	background:white;
+ 	float:left;
+ 	width:73%;
+ 	color:brown;
+ 	margin-left:7%;
+ }
+
+  .navegacao {
+	margin-right: 3%;
+  	float:right;
+  	width:15%;
+  	text-align: left;
+  }
+
+   .navegtop {
+   	padding:0;
+   	margin:0;
+   	background:gray;
+   	display:inline;
+   }
+
+    .barrinha {
+    	font-family: Verdana;
+    	color:green;
+    }
+
+    footer {
+	clear:both;
+	text-align: center;
+}
