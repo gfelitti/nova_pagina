@@ -53,7 +53,15 @@ header ul li a {
     	color:green;
     }
 
-    footer {
+ .menu_footer {
+ 	float:left;
+ 	background:gray;
+ 	padding: 0px;
+ 	color:white;
+ 	width:25%;
+ }
+
+     footer {
 	clear:both;
 	text-align: center;
 }
