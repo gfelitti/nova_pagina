@@ -12,3 +12,23 @@
  .busca {
  	float:right;
  }
+
+  .MyPanel {
+	 
+	  border: 1px solid #0C1D8A;
+	  border-radius: 5px 5px 0 0;
+
+  }
+
+   .MyPanel .heading {
+   		background:#1BDDE0;
+   		border: 1px solid #0C1D8A;
+   		border-radius: 5px 5px 0 0;
+   		color:#0C1D8A;
+   		padding: 10px 20px;
+   		
+  }
+	.MyPanel .body {
+
+		padding: 10px 20px;
+	}
