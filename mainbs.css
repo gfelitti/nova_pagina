@@ -1,0 +1,27 @@
+ .backing {
+ 	background:#D9D2D2;
+ 	border-radius: 1px;
+ 	padding:20px;
+ 	margin:20px;
+   	border-radius: 20px;
+   		
+
+ }
+
+ .titulo {
+ 	font-family: verdana;
+ 	font-size: 250%;
+ 	font-weight: bold;
+ }
+
+
+ body {
+ 	padding-top: 70px;
+ }
+
+  .footer_meu {
+  	clear: both;
+  	text-align: center;
+  	font-family: Arial;
+  	
+  }
