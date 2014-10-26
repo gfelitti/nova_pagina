@@ -1,27 +1,42 @@
- .backing {
- 	background:#D9D2D2;
- 	border-radius: 1px;
- 	padding:20px;
- 	margin:20px;
-   	border-radius: 20px;
-   		
 
+body {
+ 	padding-top:0px;
  }
 
+ .imagem_grande {
+ 	position:relative;
+ 	background: no-repeat center center fixed rgba(0, 0, 0, 0.1);
+ 	height: 85%;
+ 	padding: 0px;
+ 	margin: 0px;
+ 	background-size: cover;
+ }
+
+  .titulo_pag {
+	text-align: center;
+
+  }
  .titulo {
- 	font-family: verdana;
- 	font-size: 250%;
+ 	font-family: Arial;
  	font-weight: bold;
+ 	text-align: center;
+ 	font-size: 475%;
  }
 
+ .backing {
+ 	background:#EDEDED;
+ 	border-radius: 20px;
+ 	margin:0px;
+ 	padding:0px;
+ 	font-size:100%;
+ 	font-family: Arial;		
 
- body {
- 	padding-top: 70px;
  }
+ 
 
   .footer_meu {
   	clear: both;
   	text-align: center;
   	font-family: Arial;
-  	
+
   }
