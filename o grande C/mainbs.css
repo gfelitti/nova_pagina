@@ -1,4 +1,9 @@
-
+.navbar_custom {
+	background-color: white;
+	color:green;
+	border-radius:0;
+	font-weight: bold;
+}
 body {
  	padding-top:0px;
  }
@@ -18,7 +23,7 @@ p:first-line {
  .imagem_grande {
  	position:relative;
  	background: no-repeat center center fixed rgba(0, 0, 0, 0.1);
- 	height: 95%;
+ 	height: 100%;
  	padding: 0px;
  	margin: 0px;
  	background-size: cover;
@@ -32,15 +37,20 @@ p:first-line {
  	font-family: Arial;
  	font-weight: bold;
  	text-align: center;
- 	font-size: 475%;
+ 	font-size: 375%;
  }
 
+.linha_fina {
+	font-family: Arial;
+	font-size: 200%;
+	text-align: center;
+}
  .backing {
  	background:#EDEDED;
  	border-radius: 20px;
  	margin:0px;
  	padding:0px;
- 	font-size:100%;
+ 	font-size:125%;
  	font-family: Arial;	
 
  }
