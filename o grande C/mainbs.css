@@ -37,7 +37,7 @@ body {
 
  .titulo_principal {
  	position: absolute;
- 	top:85%;
+ 	top:82%;
  	text-align:center;
  	line-height:17px;
  	width:100%;
@@ -58,7 +58,7 @@ body {
  }
 .titulo_foto {
  	position: absolute;
- 	top:96%;
+ 	top:95%;
  	text-align:center;
  	line-height:17px;
  	width:100%;
@@ -103,7 +103,7 @@ body {
  	margin:2.75em;
  	padding:0 1em;
  	font-size:135%;
- 	line-height:36px;
+ 	line-height:1.75em;
  	text-align: justify;
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;	
 	text-shadow:0 0 1px transparent;
@@ -115,4 +115,23 @@ body {
   	text-align: center;
   	font-family: Arial;
 
+  }
+ .social {
+ 	text-align: center;
+ }
+
+  .foto_esquerda {
+  	float:left;
+  	margin: 0px 7px 7px 0px;
+  	width: 20%;
+  }
+  .foto_direita {
+  	float:right;
+  	margin: 0px 0px 7px 7px;
+  	width: 20%;
+  }
+  .foto_centro {
+  	display:block;
+  	margin: 0 auto;
+  	width: 40%;
   }
